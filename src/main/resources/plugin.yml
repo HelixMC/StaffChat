@@ -1,0 +1,9 @@
+name: StaffChat
+version: 1.0
+api-version: 1.13
+author: katsumag
+permissions:
+  staffchat.use:
+    description: Allows you to use staff chat!
+    default: false
+main: me.katsumag.staffChat.staffChat
